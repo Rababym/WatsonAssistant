@@ -1,0 +1,26 @@
+h2{color: darkblue;}
+
+body{background-image: url("bg.jpg");
+	background-repeat: no-repeat;
+	background-position:center;
+	background-size: 1200px;
+	font-family: serif;
+
+	}
+
+	#attr{
+	color: darkblue;
+	font-size: 20px}
+
+
+
+ .bttn button { 
+ position: relative;
+  background-color:whitesmoke; 
+  border: 1px solid grey; /*  border */
+  color: black; /*  text */
+  padding: 15px 40px; /* Some padding */ 
+  cursor: pointer; /* Pointer/hand icon */
+  width: 10%;
+  margin-left: 45%;
+}
